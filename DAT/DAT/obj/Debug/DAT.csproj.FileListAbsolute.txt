@@ -1,0 +1,5 @@
+C:\Users\smwega\documents\visual studio 2012\Projects\DAT\DAT\bin\Debug\DAT.exe.config
+C:\Users\smwega\documents\visual studio 2012\Projects\DAT\DAT\bin\Debug\DAT.exe
+C:\Users\smwega\documents\visual studio 2012\Projects\DAT\DAT\bin\Debug\DAT.pdb
+C:\Users\smwega\documents\visual studio 2012\Projects\DAT\DAT\obj\Debug\DAT.exe
+C:\Users\smwega\documents\visual studio 2012\Projects\DAT\DAT\obj\Debug\DAT.pdb
